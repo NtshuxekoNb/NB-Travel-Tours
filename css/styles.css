@@ -539,7 +539,7 @@ header .icons #menu-bars{
 
 
 
-
+/*media queries*/
 @media (max-width: 991px){
     * {
         font-family: 'Nunito', sans-serif;
@@ -562,6 +562,7 @@ header .icons #menu-bars{
 }
 
 @media (max-width: 768px){
+
     header .icons #menu-bars{
         display: inline-block;
     }
@@ -586,13 +587,7 @@ header .icons #menu-bars{
         padding: 1.5rem;
         margin: 1rem;
         font-size: 2rem;
-        background: var(--ghost-white);
-        color: var(--black);
-    }
-
-    header .navbar a:hover{
-        background: var(--blue);
-        color: var(--white);
+        background: #eee;
     }
 
     #search-form #search-box{
@@ -614,9 +609,9 @@ header .icons #menu-bars{
     }
     
     .home .swiper-container .swiper-slide .content h3 {
-        color: var(--blue);
+        color: #0f52ba;
         font-size: 5rem;
-        background: var(--ghost-white);
+        background: #F8F8FF;
         padding-left: 10%;
         padding-right: 10%;
     }
@@ -630,7 +625,7 @@ header .icons #menu-bars{
     }
 
     .home .swiper-container .swiper-slide .image {
-        background: var(--ghost-white);
+        background: #F8F8FF;
         flex: 1 1 45rem;
         padding-left: 4%;
     }
