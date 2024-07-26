@@ -120,7 +120,7 @@ header .icons #menu-bars{
 .home .swiper-slide {
     text-align: center;
     font-size: 18px;
-    background: #fff;
+    background: #eee;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -159,7 +159,7 @@ header .icons #menu-bars{
 }
 
 .home .swiper-container .swiper-slide .image {
-    background: #F8F8FF;
+    background: #eee;
     flex: 1 1 45rem;
 }
 
@@ -178,7 +178,7 @@ header .icons #menu-bars{
 .home .swiper-container .swiper-slide .content h3 {
     color: #0f52ba;
     font-size: 7rem;
-    background: #F8F8FF;
+    background: #eee;
 }
 
 .home .swiper-container .swiper-slide .content p {
@@ -207,7 +207,7 @@ header .icons #menu-bars{
 /* Services section */
 .services {
     padding: 50px 0;
-    background-color: #f4f4f4;
+    background-color: #eee;
 }
 
 .services .sub-heading {
@@ -376,7 +376,7 @@ header .icons #menu-bars{
 /* Contact section */
 .contact {
     padding: 2rem 9%;
-    background-color: #f9f9f9;
+    background-color: #eee;
 }
 
 .contact .sub-heading {
