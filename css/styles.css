@@ -164,7 +164,7 @@ header .icons #menu-bars{
 }
 
 .home .swiper-container .swiper-slide .image img {
-    width: 90%;
+    width: 100%;
     height: 550px;
     overflow: hidden;
 }
